@@ -13,3 +13,6 @@ http://html5boilerplate.com
 
 #Github page
 https://github.com/alonalon/Bourbon-Neat-for-Mixture.io
+
+#Notes
+The file _current.scss is just for the presentation site. Feel free to delete this whenever you want.
