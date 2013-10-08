@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+	background: $main;
+	color: $main-dark;
+	font: 16px, $helvetica;
+
+}
