@@ -1,1 +1,16 @@
 // Added this file just so it can be pushed to github
+
+{
+  "Persons" : [
+    {
+      "speaker-firstName" : "John",
+      "speaker-lastName" : "Doe",
+      "topic-title" : "Test dummy",
+      "topic-description" : "Im here to test you.",
+      "topic-length" : "30 Minutes",
+      "speaker-twitter" : "Johndoe",
+      "speaker-website" : "Johndoe.com",
+
+    } 
+    ]
+  }
